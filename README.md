@@ -179,17 +179,7 @@ I'm a **Software Architect & Full Stack Developer** based in Sri Lanka, building
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-6C757D?style=flat-square&logo=diagrams.net&logoColor=white)
 
----
 
-## 🎯 Goals for 2025–2026
-
-- ✅ Launch a production-ready **multi-tenant SaaS product**
-- 🌍 Grow **Branxel** into a recognized IT brand in Sri Lanka
-- 🤝 Contribute meaningfully to **open-source projects**
-- ☁️ Get certified in **AWS Solutions Architect**
-- 📈 Scale client projects to handle **10k+ concurrent users**
-
----
 
 ## 💬 Favorite Quote
 
