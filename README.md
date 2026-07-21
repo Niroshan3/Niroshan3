@@ -165,7 +165,7 @@ I'm a **Software Architect & Full Stack Developer** based in Sri Lanka, building
 ## 📌 Currently Working On
 
 - 🧩 Multi-tenant **Business OS SaaS** platform for SMBs
-- 🌐 Expanding **Branxel** — my IT services brand
+- 🌐 Expanding IT services 
 - 📦 Diving deeper into **Docker & AWS architecture**
 - 🎨 Refining **UI/UX patterns** for enterprise dashboards
 
