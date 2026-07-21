@@ -21,7 +21,7 @@ I'm a **Software Architect & Full Stack Developer** based in Sri Lanka, building
 - ⚙️ Deep experience with **PHP ecosystems** (Laravel, CodeIgniter 4) and **modern JS**
 - ☁️ Working with **AWS** for cloud infrastructure and deployment
 - 🤝 Open to collaboration on impactful open-source and commercial projects
-- ⚡ Fun fact: I also do **hardware troubleshooting and AC repair** — I fix things at every layer of the stack
+- ⚡ Fun fact: I also do **hardware troubleshooting** — I fix things at every layer of the stack
 
 ---
 
